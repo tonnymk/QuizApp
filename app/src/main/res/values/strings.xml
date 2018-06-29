@@ -1,0 +1,138 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+
+    <!-- Text for quiz appbar  [CHAR LIMIT=NONE] -->
+    <string name="main_label">Dental Quiz</string>
+
+    <!-- Text for results appbar  [CHAR LIMIT=NONE] -->
+    <string name="result_label">Results</string>
+
+    <!-- Text for intro label [CHAR LIMIT=NONE] -->
+    <string name="intro_header">Introduction</string>
+
+    <!-- Text for registration header [CHAR LIMIT=NONE] -->
+    <string name="reg_header">Registration</string>
+
+    <!-- Text for name hint [CHAR LIMIT=NONE] -->
+    <string name="name_hint">Full Name</string>
+
+    <!-- Text for age hint [CHAR LIMIT=NONE] -->
+    <string name="age_hint">Age(Years)</string>
+
+    <!-- Text for gender label [CHAR LIMIT=NONE] -->
+    <string name="gender_label">Select Gender</string>
+
+    <!-- Text for male radio button [CHAR LIMIT=NONE] -->
+    <string name="radio_male">Male</string>
+
+    <!-- Text for female radio button [CHAR LIMIT=NONE] -->
+    <string name="radio_female">Female</string>
+
+    <!-- Introduction text decribing periodontal disease[CHAR LIMIT=NONE] -->
+    <string name="intro_text">Periodontal disease is an infection of the tissues that hold your teeth in place, which include the gums, periodontal ligament and alveolar bone.
+        The risk of getting periodontal disease can be classified into:-
+
+        <b>
+        \n\tLow risk
+        \n\tModerate risk
+        \n\tHigh risk
+        </b>
+
+        \nPlease fill in this quiz to know your risk of getting periodontal disease
+    </string>
+
+    <!-- Text for dental hygiene subtitle [CHAR LIMIT=NONE] -->
+    <string name="dental_hygiene_sub_title">Dental Hygiene</string>
+
+    <!-- Text for gum status subtitle [CHAR LIMIT=NONE] -->
+    <string name="gum_status_sub_title">Gum Status</string>
+
+    <!-- Text for risk factor subtitle [CHAR LIMIT=NONE] -->
+    <string name="risk_factors_sub_title">Risk Factors</string>
+
+
+    <!-- Text for question 1 [CHAR LIMIT=NONE] -->
+    <string name="q1">1. How frequently do you brush your teeth?</string>
+
+    <!-- Text for question 2 [CHAR LIMIT=NONE] -->
+    <string name="q2">2. How frequently do you clean between your teeth(flossing)?</string>
+
+
+    <!-- Text for question 3 [CHAR LIMIT=NONE] -->
+    <string name="q3">3. How often do you have your teeth cleaned professionally by a dentist or dental hygienist?</string>
+
+    <!-- Text for question 4 [CHAR LIMIT=NONE] -->
+    <string name="q4">4. Do your gums bleed when brushing or flossing your teeth?</string>
+
+    <!-- Text for question 5 [CHAR LIMIT=NONE] -->
+    <string name="q5">5. Do any of your teeth feel loose?</string>
+
+    <!-- Text for question 6 [CHAR LIMIT=NONE] -->
+    <string name="q6">6. Do your gums appear to be receding away from your teeth?</string>
+
+    <!-- Text for question 7 [CHAR LIMIT=NONE] -->
+    <string name="q7">7. Does any of your immediate family members have history of periodontal diesease?</string>
+
+    <!-- Text for question 8 [CHAR LIMIT=NONE] -->
+    <string name="q8">8. Do you smoke or use tobbaco products?</string>
+
+    <!-- Text for question 9 [CHAR LIMIT=NONE] -->
+    <string name="q9">9. Have you ever been diagnosed with any of the following disease? Please check appropriately.</string>
+
+
+
+    <!-- Text for question 1 - 8 RadioButtons [CHAR LIMIT=NONE] -->
+    <string name="choice_once_a_day">Once a day</string>
+    <string name="choice_more_than_once_a_day">More than once a day</string>
+    <string name="choice_rarely">Rarely</string>
+    <string name="choice_never">Never</string>
+    <string name="choice_once_a_year">Once a year</string>
+    <string name="choice_more_than_once_a_year">More than once a year</string>
+    <string name="choice_yes">Yes</string>
+    <string name="choice_no">No</string>
+    <string name="choice_sometimes">Sometimes</string>
+    <string name="choice_not_sure">Not sure</string>
+    <string name="choice_not_any_more">Not any more</string>
+
+    <!-- Text for question 9 CheckBoxes [CHAR LIMIT=NONE] -->
+    <string name="check_diabetes">Diabetes</string>
+    <string name="check_heart_dx">Heart Disease</string>
+    <string name="check_htn">High Blood Pressure</string>
+    <string name="check_stroke">Stroke</string>
+    <string name="check_osteoporosis">Osteoporosis</string>
+
+    <!-- Text for text for submit button  [CHAR LIMIT=NONE] -->
+    <string name="submit">Submit</string>
+
+    <!-- Text for text for reset button  [CHAR LIMIT=NONE] -->
+    <string name="reset">Reset</string>
+
+    <!-- Text for new quiz button  [CHAR LIMIT=NONE] -->
+    <string name="new_quiz">New Quiz</string>
+
+    <!-- Text for results sub-title  [CHAR LIMIT=NONE] -->
+    <string name="result_title">Risk for Periodontal Disease</string>
+
+
+    <!-- Error message displayed in an alert if a question is not answered. It will be in the format of "Please answer question X" where X is the unanswered question number. [CHAR LIMIT=NONE] -->
+    <string name="alert_message">Please answer question <xliff:g example="2" id="questionNumber">%d</xliff:g></string>
+
+    <!-- Error message displayed in an alert is no username is entered  [CHAR LIMIT=NONE] -->
+    <string name="no_name_message">Please enter your name</string>
+
+    <!-- Error message displayed in an alert is no age is entered  [CHAR LIMIT=NONE] -->
+    <string name="no_age_message">Please enter your age</string>
+
+    <!-- Error message displayed in an alert is no gender is selected  [CHAR LIMIT=NONE] -->
+    <string name="no_gender_message">Please select your gender</string>
+
+
+    <!-- Text for results placeholders  [CHAR LIMIT=NONE] -->
+    <string name="age_gender_sample">Age+Gender</string>
+    <string name="name_sample">Name</string>
+    <string name="rating_sample">RATING</string>
+    <string name="comment_sample">Comment</string>
+
+
+
+</resources>
